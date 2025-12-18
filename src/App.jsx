@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn mores
       </p>
      */}
-      Welcome
+      Welcome to Vite + React!
     </>
   )
 }
