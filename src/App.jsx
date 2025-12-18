@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'; // Adjust the path if needed
+//import viteLogo from './assets/vite.svg'; // Adjust the path if needed
 import './App.css'
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>
+      {/* <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
@@ -28,6 +28,8 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn mores
       </p>
+     */}
+      Welcome
     </>
   )
 }
